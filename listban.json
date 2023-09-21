@@ -2,11 +2,11 @@
   "HasProblem": true,
   "ForceUpdate": true,
   "Problem": "Update",
-  "Version": "3.0.0",
-  "Lasted_Config_Version": "3.0.0",
+  "Version": "1.0.0",
+  "Lasted_Config_Version": "1.0.0",
   "Stable_Version": {
     "Valid_Version": [
-      "3.0.0"
+      "1.0.0"
     ],
     "RealTime_AutoUpdate": false
   }
